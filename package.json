@@ -1,0 +1,22 @@
+{
+  "name": "nao-game-server",
+  "version": "1.0.0",
+  "description": "Nao game server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avnerus/nao-game-server.git"
+  },
+  "author": "Avner Peled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avnerus/nao-game-server/issues"
+  },
+  "homepage": "https://github.com/Avnerus/nao-game-server#readme",
+  "dependencies": {
+    "websocket": "^1.0.22"
+  }
+}
